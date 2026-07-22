@@ -42,6 +42,7 @@
       "setIcon",
       "setPopup",
       "setTitle"
+      //this helped me a lot thanks for this repo to make it public
     ],
     "types": [
       "OpenPopupOptions",
